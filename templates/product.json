@@ -5,11 +5,10 @@
       "id": "main"
     },
     {
-      "type": "featured-collection",
+      "type": "related-products",
       "id": "related",
       "settings": {
         "heading": "You May Also Like",
-        "collection": "all",
         "count": 4
       }
     }

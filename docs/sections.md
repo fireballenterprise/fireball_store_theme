@@ -16,6 +16,7 @@ Generated from Store's section catalog. Settings use short names; every setting 
 | `multicolumn` | any page | Columns with a picture, title and text | `column` |
 | `newsletter` | any page | Email sign-up form | none |
 | `featured-product` | any page | One product, highlighted | none |
+| `related-products` | product | Products related to this one (same collections, type, tags) | none |
 | `collapsible-content` | any page | Questions and answers | `row` |
 | `custom-html` | any page | Your HTML, cleaned (no scripts) | none |
 | `main-product` | product | The product page (picture, price, options, add to cart) | none |
