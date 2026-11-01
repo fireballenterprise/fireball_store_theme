@@ -1,0 +1,12 @@
+{
+  "sections": [
+    {
+      "type": "collection-list",
+      "id": "collections",
+      "settings": {
+        "heading": "Collections",
+        "count": 12
+      }
+    }
+  ]
+}

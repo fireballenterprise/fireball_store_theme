@@ -1,0 +1,8 @@
+{
+  "id": "fireball",
+  "name": "Fireball",
+  "version": "0.3.0",
+  "author": "Fireball Enterprise",
+  "description": "The default Fireball Store theme: dark by default, red accent, pill buttons and rounded cards. Fork it to make your own.",
+  "license": "MIT"
+}

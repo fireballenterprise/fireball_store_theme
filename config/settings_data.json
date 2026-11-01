@@ -1,0 +1,11 @@
+{
+  "accentColor": "#c61a28",
+  "backgroundColor": "#0a0a0a",
+  "textColor": "#f4f4f5",
+  "headingFont": "system",
+  "bodyFont": "system",
+  "pageWidth": "wide",
+  "buttonShape": "pill",
+  "cardStyle": "rounded",
+  "sectionSpacing": "normal"
+}

@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "type": "image-banner",
+      "id": "hero",
+      "settings": {
+        "button_label": "Shop All Products",
+        "button_url": "/collections/all",
+        "height": "medium",
+        "align": "left"
+      }
+    },
+    {
+      "type": "collection-list",
+      "id": "collections",
+      "settings": {
+        "heading": "Collections",
+        "count": 8
+      }
+    },
+    {
+      "type": "featured-collection",
+      "id": "featured",
+      "settings": {
+        "heading": "New And Featured",
+        "collection": "",
+        "count": 8
+      }
+    }
+  ]
+}

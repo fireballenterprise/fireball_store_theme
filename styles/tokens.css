@@ -1,0 +1,6 @@
+/* Design tokens. Colors, fonts, page width, button and card shape and spacing are set in config/settings_data.json
+   (and per store in the Theme settings). Extra tokens for your own rules go here. */
+:root {
+  --shadow-card: none;
+  --border-width: 1px;
+}

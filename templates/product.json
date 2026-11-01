@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "type": "main-product",
+      "id": "main"
+    },
+    {
+      "type": "featured-collection",
+      "id": "related",
+      "settings": {
+        "heading": "You May Also Like",
+        "collection": "all",
+        "count": 4
+      }
+    }
+  ]
+}
