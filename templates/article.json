@@ -1,8 +1,10 @@
 {
   "sections": [
     {
+      "id": "main",
       "type": "main-article",
-      "id": "main"
+      "settings": {},
+      "blocks": []
     }
   ]
 }

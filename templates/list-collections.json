@@ -1,12 +1,13 @@
 {
   "sections": [
     {
-      "type": "collection-list",
       "id": "collections",
+      "type": "collection-list",
       "settings": {
         "heading": "Collections",
         "count": 12
-      }
+      },
+      "blocks": []
     }
   ]
 }

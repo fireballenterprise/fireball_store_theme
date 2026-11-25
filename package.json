@@ -1,6 +1,6 @@
 {
-  "name": "fireball-store-theme-fireball",
-  "version": "0.3.0",
+  "name": "fireball-store-theme",
+  "version": "0.4.0",
   "private": true,
   "description": "The default Fireball Store theme: JSON templates, settings, tokens and CSS. Data only.",
   "license": "MIT",

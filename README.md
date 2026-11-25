@@ -1,6 +1,6 @@
 # Fireball Store Theme: Fireball
 
-The default theme for [Fireball Store](https://fireballenterprise.com): dark by default, red accent, pill buttons and rounded cards. It is a **starter you can fork**.
+The default theme for [Fireball Store](https://fireballenterprise.com): Light and Dark (the shopper's device decides, or the store's Default Look), red accent, pill buttons and rounded cards. It is a **starter you can fork**.
 
 A theme is **data and styling**. It never runs code. You arrange and configure Store's own sections with JSON, set design tokens, and add CSS. Anything that needs behavior ships as an add-on, not a theme.
 
@@ -11,9 +11,7 @@ theme.json                   Name, id, version, author, license
 config/settings_data.json    Design defaults: colors, fonts, page width, button and card shape, spacing
 templates/                   One JSON file per page: index, product, collection, list-collections, search,
                              cart, page, blog, article, 404, plus the groups header, footer, announcement
-styles/tokens.css            Your own CSS variables
-styles/base.css              Small touches on top of Store's section styles
-styles/custom.css            Your own CSS
+styles/custom.css            Your own CSS (variables and touches on top of Store's section styles)
 assets/                      Images (png, jpg, webp, gif, avif) and fonts (woff2), 1 MB each
 locales/en.json              Text for each language
 docs/                        Guides (start with docs/where-is-x.md)

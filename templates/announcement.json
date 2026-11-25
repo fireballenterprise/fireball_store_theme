@@ -1,8 +1,10 @@
 {
   "sections": [
     {
+      "id": "announcement",
       "type": "announcement-bar",
-      "id": "announcement"
+      "settings": {},
+      "blocks": []
     }
   ]
 }

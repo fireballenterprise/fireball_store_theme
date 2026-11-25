@@ -1,11 +1,15 @@
 {
   "accentColor": "#c61a28",
-  "backgroundColor": "#0a0a0a",
-  "textColor": "#f4f4f5",
+  "backgroundColor": "#ffffff",
+  "textColor": "#18181b",
   "headingFont": "system",
   "bodyFont": "system",
   "pageWidth": "wide",
   "buttonShape": "pill",
   "cardStyle": "rounded",
-  "sectionSpacing": "normal"
+  "sectionSpacing": "normal",
+  "colorModes": "both",
+  "darkAccentColor": "#c61a28",
+  "darkBackgroundColor": "#18181b",
+  "darkTextColor": "#f4f4f5"
 }
