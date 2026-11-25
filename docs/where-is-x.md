@@ -11,7 +11,7 @@
 | Change the collection, search, cart, page, blog, article or 404 pages | `templates/<page>.json` (keep that page's `main-*` section) |
 | Change the header, footer or announcement bar | `templates/header.json`, `templates/footer.json`, `templates/announcement.json` |
 | Add my own CSS | `styles/custom.css` |
-| Add CSS variables | `styles/tokens.css` |
+| Add CSS variables | `styles/custom.css` |
 | Add a background image or a font | `assets/` and `url(assets/<file>)` in CSS |
 | Translate text | `locales/<language>.json` |
 | See every section, its settings and blocks | `docs/sections.md` |

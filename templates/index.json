@@ -1,31 +1,39 @@
 {
   "sections": [
     {
-      "type": "image-banner",
       "id": "hero",
+      "type": "image-banner",
       "settings": {
+        "image": "",
+        "heading": "",
+        "text": "",
         "button_label": "Shop All Products",
         "button_url": "/collections/all",
         "height": "medium",
-        "align": "left"
-      }
+        "align": "left",
+        "overlay": 40
+      },
+      "blocks": []
     },
     {
-      "type": "collection-list",
       "id": "collections",
+      "type": "collection-list",
       "settings": {
         "heading": "Collections",
         "count": 8
-      }
+      },
+      "blocks": []
     },
     {
-      "type": "featured-collection",
       "id": "featured",
+      "type": "featured-collection",
       "settings": {
         "heading": "New And Featured",
         "collection": "",
-        "count": 8
-      }
+        "count": 8,
+        "view_all": "View All"
+      },
+      "blocks": []
     }
   ]
 }

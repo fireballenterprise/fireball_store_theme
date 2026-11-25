@@ -1,16 +1,19 @@
 {
   "sections": [
     {
+      "id": "main",
       "type": "main-product",
-      "id": "main"
+      "settings": {},
+      "blocks": []
     },
     {
-      "type": "related-products",
       "id": "related",
+      "type": "related-products",
       "settings": {
         "heading": "You May Also Like",
         "count": 4
-      }
+      },
+      "blocks": []
     }
   ]
 }

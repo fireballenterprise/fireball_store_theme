@@ -1,2 +1,2 @@
-/* Your own CSS. Checked on install: no @import, no remote url(), no escapes, no script hooks.
-   Images and fonts come from this theme's assets folder: url(assets/pattern.png). */
+:root { --shadow-card: none; --border-width: 1px; }
+.card { box-shadow: var(--shadow-card); border-width: var(--border-width); }

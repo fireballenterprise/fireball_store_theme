@@ -1,8 +1,10 @@
 {
   "sections": [
     {
+      "id": "main",
       "type": "main-search",
-      "id": "main"
+      "settings": {},
+      "blocks": []
     }
   ]
 }

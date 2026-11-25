@@ -1,8 +1,13 @@
 {
   "sections": [
     {
+      "id": "footer",
       "type": "footer",
-      "id": "footer"
+      "settings": {
+        "menu": "footer",
+        "show_copyright": true
+      },
+      "blocks": []
     }
   ]
 }

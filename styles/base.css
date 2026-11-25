@@ -1,5 +1,0 @@
-/* Base touches on top of Store's section styles. Keep rules short and use the tokens. */
-.card {
-  box-shadow: var(--shadow-card);
-  border-width: var(--border-width);
-}

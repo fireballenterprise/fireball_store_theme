@@ -1,8 +1,16 @@
 {
   "sections": [
     {
+      "id": "header",
       "type": "header",
-      "id": "header"
+      "settings": {
+        "menu": "main",
+        "logo_width": 160,
+        "sticky": true,
+        "show_search": true,
+        "show_account": true
+      },
+      "blocks": []
     }
   ]
 }
