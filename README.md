@@ -52,4 +52,4 @@ Pull requests and automated checks are **coming** once the theme is built. Until
 
 ## License
 
-MIT. See [LICENSE](LICENSE). The structure follows Shopify's Dawn theme (MIT); see [NOTICE.md](NOTICE.md).
+Proprietary, not open source. See [LICENSE](LICENSE). The structure follows Shopify's Dawn theme (MIT); see [NOTICE.md](NOTICE.md).
